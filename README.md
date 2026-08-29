@@ -22,4 +22,4 @@
 
 ![Dashboard](https://github.com/NeonFoxVG/HRP-Predictor/blob/main/Dashboard.png)
 
-![Prediction Results](images/prediction-results.png)
+![Probability Distribution](https://github.com/NeonFoxVG/HRP-Predictor/blob/main/Probability%20Distribution.png)
