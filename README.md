@@ -20,6 +20,6 @@
 
 ## Screenshots
 
-![Dashboard](images/dashboard.png)
+![Dashboard](https://github.com/NeonFoxVG/HRP-Predictor/blob/main/Dashboard.png)
 
 ![Prediction Results](images/prediction-results.png)
